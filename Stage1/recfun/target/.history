@@ -1,0 +1,17 @@
+build
+sbt build
+exit
+compile
+test
+compile
+run
+submit dimos-d@yandex.ru jyNlG9cF8jwaWp7a
+exit
+compile
+run
+test
+!
+!:
+exit
+test
+submit dimos-d@yandex.ru Yk7qoDfPKvmJ4CnX

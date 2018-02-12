@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- string take should return 'Hello'[0m[0m
+[0m[[0minfo[0m] [0m[32m- '|' as union should result to 1, 2, 3, 4[0m[0m
+[0m[[0minfo[0m] [0m[32m- '&' as intersect should contain 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) should contain just 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) should not contain other than 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) should be invokable and return true for 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union should contain all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect should contain the elements on both sets[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersection should contains only elements that are common for each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff should contains only elements that are present in left set, but not in the right set[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter should contains only elements that are equal 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter should contains only elements > 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall should check if there are only positive elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists should check if there are only 2 and <= 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- map multiplying by 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- map subtracting 2 to set with several elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- map should return set multiplied by 2[0m[0m

@@ -1,0 +1,11 @@
+exit
+compile
+run
+test
+exit
+compile
+console
+sbt tasks
+tasks
+compile
+run
